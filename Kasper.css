@@ -356,7 +356,7 @@ header nav .form i {
     padding-bottom: var(--section-padding);
     height: 600px;
     position: relative;
-    background-image: url(../images/6762_LS_AM_F1_ST_001_04a_w4_F_RGB_LYRD_AML\ copy.jpg);
+    background-image: url('images/6762_LS_AM_F1_ST_001_04a_w4_F_RGB_LYRD_AML\ copy.jpg');
     background-size: cover;
     display: flex;
     align-items: center;
